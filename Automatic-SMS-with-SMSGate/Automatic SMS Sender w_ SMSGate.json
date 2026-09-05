@@ -193,7 +193,7 @@
         "messages": {
           "values": [
             {
-              "content": "Rephrase the following base SMS message to sound natural, friendly, and unique.\nKeep all core facts (names, numbers, emails, links, dates, and instructions) completely accurate.\nKeep it concise (under 900 characters if possible).\nOutput ONLY the rephrased SMS text without quote marks, markdown, or greetings.\n\nBase Message: \"Good day! This is [Sender Name] from [Organization].\n\nWe are pleased to confirm your online registration for [Event Name].\n\nTo complete your registration, kindly email ([organization.email@example.com]) us a copy of your deposit slip so we can issue your payment confirmation. If you prefer to settle your payment on the day of the event, [Event Date], please inform us in advance so we can reserve your kits and accommodation.\n\nWe’re excited to have you join us and look forward to meeting you in person. It will be a wonderful event filled with great opportunities to connect and learn together.  \n\nIf you have any questions or require further assistance, please do not hesitate to contact us.\n\nThank you.\""
+              "content": "[YOUR AI PROMPT GOES HERE]"
             }
           ]
         },
