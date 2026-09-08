@@ -4,7 +4,7 @@ A central workspace for my n8n workflows, automation experiments, and custom cod
 
 ## 📁 Repository Structure
 Each subfolder contains a specific project:
-* **`workflow.json`** - Sanitized n8n workflow export (ready to import).
+* **`workflowName.json`** - Sanitized n8n workflow export (ready to import).
 * **`scripts/`** - Custom JavaScript or Python code snippets used inside Code nodes.
 * **`README.md`** - Quick overview, trigger setup, and required API credentials.
 
